@@ -1,0 +1,37 @@
+{
+  "layout": {
+    "metadata": {
+      "title": "Kossi Georges-Noé AHOMBO 的个人网站",
+      "description": "你好，我是 Georges-Noé ，我是一个全栈专业软件开发人员。你可以通过联系我来讨论你的项目或只是向我说一句话。",
+      "category": "个人网站",
+      "classification": "个人网站",
+      "keywords": "Kossi, Georges, Noé, AHOMBO, Georges-Noé, georgesnoe, full-stack, back-end, front-end, fullstack, backend, frontend, software, developer, sde, project, lome business school, lbs, lome, togo, georges.ahombo@gmail.com, kossi.ahombo@lomebs.com",
+      "opengraph": {
+        "title": "Kossi Georges-Noé AHOMBO 的个人网站",
+        "description": "你好，我是 Georges-Noé ，我是一个全栈专业软件开发人员。你可以通过联系我来讨论你的项目或只是向我说一句话。",
+        "sitename": "Kossi Georges-Noé AHOMBO 的个人网站"
+      },
+      "twitter": {
+        "title": "Kossi Georges-Noé AHOMBO 的个人网站",
+        "description": "你好，我是 Georges-Noé ，我是一个全栈专业软件开发人员。你可以通过联系我来讨论你的项目或只是向我说一句话。"
+      }
+    },
+    "header": {
+      "github": "我的 Github 账户"
+    },
+    "footer": {
+      "madewith": "用 ❤ 由 Kossi Georges-Noé AHOMBO 制作。由 Next.js 构建。主机在 Vercel 上。",
+      "copyright": "版权",
+      "allrights": "保留所有权利。"
+    }
+  },
+  "homepage": {
+    "hello": "你好世界！",
+    "metadata": {
+      "title": "主页 • Kossi Georges-Noé AHOMBO"
+    }
+  },
+  "notfound": {
+    "title": "未找到"
+  }
+}

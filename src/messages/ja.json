@@ -1,0 +1,37 @@
+{
+  "layout": {
+    "metadata": {
+      "title": "Kossi Georges-Noé AHOMBO のプロフィール",
+      "description": "こんにちは、私は Georges-Noé です。フルスタックのプログラマーです。プロジェクトを議論するために、あなたに連絡することができます。",
+      "category": "プロフィール",
+      "classification": "プロフィール",
+      "keywords": "Kossi, Georges, Noé, AHOMBO, Georges-Noé, georgesnoe, full-stack, back-end, front-end, fullstack, backend, frontend, software, developer, sde, project, lome business school, lbs, lome, togo, georges.ahombo@gmail.com, kossi.ahombo@lomebs.com",
+      "opengraph": {
+        "title": "Kossi Georges-Noé AHOMBO のプロフィール",
+        "description": "こんにちは、私は Georges-Noé です。フルスタックのプログラマーです。プロジェクトを議論するために、あなたに連絡することができます。",
+        "sitename": "Kossi Georges-Noé AHOMBO のプロフィー  ル"
+      },
+      "twitter": {
+        "title": "Kossi Georges-Noé AHOMBO のプロフィール",
+        "description": "こんにちは、私は Georges-Noé です。フルスタックのプログラマーです。プロジェクトを議論するために、あなたに連絡することができます。"
+      }
+    },
+    "header": {
+      "github": "私の Github アカウント"
+    },
+    "footer": {
+      "madewith": "❤ で作られた Kossi Georges-Noé AHOMBO。Next.js で構築されています。Vercel でホストされています。",
+      "copyright": "Copyright",
+      "allrights": "All rights reserved."
+    }
+  },
+  "homepage": {
+    "hello": "こんにちは、世界！",
+    "metadata": {
+      "title": "ホーム • Kossi Georges-Noé AHOMBO"
+    }
+  },
+  "notfound": {
+    "title": "見つかりませんでした"
+  }
+}

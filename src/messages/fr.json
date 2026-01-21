@@ -1,0 +1,37 @@
+{
+  "layout": {
+    "metadata": {
+      "title": "Portfolio de Kossi Georges-Noé AHOMBO",
+      "description": "Bonjour, je suis Georges-Noé et je suis un développeur d'applications full-stack professionnel. Vous pouvez me contacter pour discuter de vos projets ou simplement s'échanger quelques mots.",
+      "category": "Site personnel",
+      "classification": "Site personnel",
+      "keywords": "Kossi, Georges, Noé, AHOMBO, Georges-Noé, georgesnoe, full-stack, back-end, front-end, fullstack, backend, frontend, logiciels, développeur, sde, projet, lome business school, lbs, lome, togo, georges.ahombo@gmail.com, kossi.ahombo@lomebs.com",
+      "opengraph": {
+        "title": "Portfolio de Kossi Georges-Noé AHOMBO",
+        "description": "Bonjour, je suis Georges-Noé et je suis un développeur d'applications full-stack professionnel Vous pouvez me contacter pour discuter de vos projets ou simplement s'échanger quelques mots.",
+        "sitename": "Portofolio de Kossi Georges-Noé AHOMBO"
+      },
+      "twitter": {
+        "title": "Portfolio de Kossi Georges-Noé AHOMBO",
+        "description": "Bonjour, je suis Georges-Noé et je suis un développeur d'applications full-stack professionnel. Vous pouvez me contacter pour discuter de vos projets ou simplement s'échanger quelques mots."
+      }
+    },
+    "header": {
+      "github": "Mon compte Github"
+    },
+    "footer": {
+      "madewith": "Fait avec ❤ par Kossi Georges-Noé AHOMBO. Construit avec Next.js. Hébergé sur Vercel.",
+      "copyright": "Copyright",
+      "allrights": "Tous droits réservés."
+    }
+  },
+  "homepage": {
+    "hello": "Bonjour le monde!",
+    "metadata": {
+      "title": "Accueil • Kossi Georges-Noé AHOMBO"
+    }
+  },
+  "notfound": {
+    "title": "Non Trouvé"
+  }
+}
