@@ -104,7 +104,7 @@ export async function generateMetadata({
       site: "https://georgesnoe.vercel.app",
     },
     verification: {
-      google: "",
+      google: "gs5gnihdAhLhjAXBVBbUyRjYdk_Vd7NuZbJc5SP3Jio",
     },
   };
 }
